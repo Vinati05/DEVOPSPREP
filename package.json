@@ -1,0 +1,24 @@
+{
+  "name": "untitled-folder",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinati05/DEVOPSPREP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinati05/DEVOPSPREP/issues"
+  },
+  "homepage": "https://github.com/Vinati05/DEVOPSPREP#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
